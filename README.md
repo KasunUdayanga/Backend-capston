@@ -13,5 +13,5 @@ This is a simple web application built with Django. It provides a basic structur
 ## Requirements
 
 - Python 3.x
-- Django 3.x or higher
+- Django 3.x 
 
